@@ -32,7 +32,7 @@ Hey there! 👋 I'm **Aaditya Mahajan**, a **passionate Full-Stack Developer** a
 - **Backend:** PHP, MySQL  
 - **Features:** Seat selection, real-time booking updates, and payment integration  
 
-🔗 **[Project Demo](#)** | 🔗 **[GitHub Repo](https://github.com/AadityaMahajan03/Online-Movie-Booking-System)**  
+🔗 **[Project Demo](https://online-movie-booking-system.onrender.com/)** | 🔗 **[GitHub Repo](https://github.com/AadityaMahajan03/Online-Movie-Booking-System)**  
 
 ---
 
